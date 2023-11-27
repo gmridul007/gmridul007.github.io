@@ -5,9 +5,9 @@ description         : >-
                       use tabs over spaces
                       and never broke production.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : mrgup7/mrgup7.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Mridul Gupta
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : "Mridul Linkedin photo.jpg"
   behance           : your_username
 # dribbble          : your_username
   email             : gmridul07@gmail.com
@@ -76,7 +76,7 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: false
+  enabled: true
   username: your_username
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.

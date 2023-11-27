@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a Computer Science major at Georgia Institute of Technology with concentrations in Devices and Intelligence, starting my Masters in Machine Learning in January 2024. I have experience in full-stack software development, backend development, AI models and I am always looking to expand my skills.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

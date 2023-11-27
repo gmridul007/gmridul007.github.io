@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Java
+  percentage: 80
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Python
+  percentage: 90
   color:
 
-- name: Python
-  percentage: 70
+- name: C#
+  percentage: 60
+  color:
+
+- name: MS SQL Server
+  percentage: 75
+  color:
+
+- name: ASP.NET
+  percentage: 60
+  color:
+
+- name: JavaScript (Express.js, Node.js, React.js)
+  percentage: 80
   color: secondary
