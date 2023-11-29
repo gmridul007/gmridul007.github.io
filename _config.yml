@@ -1,9 +1,10 @@
 ### Site Settings ###
 title               : MRIDUL GUPTA
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am a Computer Science major at Georgia Institute of Technology with concentrations 
+                      in Devices and Intelligence, starting my Masters in Machine Learning in January 2024. 
+                      I have experience in full-stack software development, backend development, AI models 
+                      and I am always looking to expand my skills.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mrgup7/mrgup7.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
