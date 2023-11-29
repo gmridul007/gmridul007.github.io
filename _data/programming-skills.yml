@@ -4,19 +4,19 @@
 
 - name: Python
   percentage: 90
-  color:
+  color: yellow
 
 - name: C#
   percentage: 60
-  color:
+  color: 
 
 - name: MS SQL Server
   percentage: 75
-  color:
+  color: brown
 
 - name: ASP.NET
   percentage: 60
-  color:
+  color: black
 
 - name: JavaScript (Express.js, Node.js, React.js)
   percentage: 80

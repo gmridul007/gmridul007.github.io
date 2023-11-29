@@ -1,7 +1,7 @@
 - name: Git
-  percentage: 95
+  percentage: 90
   color: info
 
 - name: Leadership
-  percentage: 90
+  percentage: 95
   color: success

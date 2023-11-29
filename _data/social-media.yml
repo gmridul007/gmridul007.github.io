@@ -19,8 +19,7 @@ email:
 facebook:
   url   : https://www.facebook.com/
   icon  : fab fa-facebook
-  color : 3b5998
-
+  color : 3b5998gra
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
